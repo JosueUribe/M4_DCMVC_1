@@ -3,7 +3,7 @@
 int cd_player(int g, int c);
 
 int main()
-int b=5;
+int failed = 10000;
 {
 	printf("%d", b)
 
