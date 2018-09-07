@@ -3,7 +3,6 @@
 int cd_player(int g, int c);
 
 int main()
-
 float j = 6.5;
 int z = 5;
 int b =3;
@@ -16,10 +15,11 @@ Typedef enum
 {
 	Monday,
 	Tuesday,
-}WeekDays_T;
+}WeekDays_Tag;
 
-printf("\n hola nuevamente \n");
+fprintf(stdout,"\n hola nuevamente \n");
 printf("adios");
+
 return 0;
 
 }
