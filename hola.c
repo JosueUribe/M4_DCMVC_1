@@ -2,7 +2,13 @@
 
 int cd_player(int g, int c);
 int main()
-int b=5;
+float j = 6.5;
+int z = 5;
+
+
+
+
+int b =3;
 {
 	printf("%d", b)
 
