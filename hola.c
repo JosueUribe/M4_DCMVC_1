@@ -3,13 +3,12 @@
 int cd_player(int g, int c);
 
 int main()
+
 float j = 6.5;
 int z = 5;
-
-
-
-
 int b =3;
+int failed = 10000;
+
 {
 	printf("%d", b)
 
